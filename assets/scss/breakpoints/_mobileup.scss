@@ -176,9 +176,9 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
+	background-image: url('../img/darky.jpeg');
 	background-size: cover;
-	background-position: center center;
+	background-position: center top;
 	color: white;
 	padding: 0;
 	height: 3em;
@@ -194,9 +194,10 @@ HEADER STYLING
 		padding-left: 2rem;
 		font-size: 1em;
 		line-height: 3em;
-		font-family: $sans-serif;
-		font-weight: 800;
+		font-family: "Amatic SC";
+		font-weight: 500;
 		text-transform: uppercase;
+    // letter-spacing: 0.1em;
 
 		a {
 			color: white;
@@ -389,6 +390,9 @@ FOOTER STYLING
 
 	.copy, .footer-links {
 		font-size: .8em;
+    i {
+      font-size: 1.3rem;
+    }
 	}
 
 	.copy {

@@ -25,11 +25,11 @@ $grey:   #aaa;
 $black:  #111;
 
 // Color variables
-$primary-color: seagreen;
-$secondary-color: #233E5B;
+$primary-color: #9A1B1F;
+$secondary-color: #AC1F23;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
-$background-color: seagreen;
+$background-color: $secondary-color;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
@@ -53,4 +53,4 @@ TYPE SETTINGS
 ***************/
 
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
-$serif: "PT Serif", Georgia, Times, serif;
+$serif: "Libre Baskerville", Georgia, Times, serif;

@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Krabičkový blog
+description: Tipy na dárky, seznámení se značkami, kam za nákupy, jak vybírat dárky.
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -12,11 +12,11 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
- - title: About
+ - title: Zpět na web
+   url: http://www.krabickanamiru.cz/
+ - title: Příběhy značek
    url: /about
- - title: Contact
+ - title: Tipy na dárky
    url: /contact
 
 social:
