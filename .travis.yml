@@ -1,0 +1,10 @@
+script: bundle exec jekyll build
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rake site:publish
+before_install:
+- openssl aes-256-cbc -K $encrypted_7c1fa5398b14_key -iv $encrypted_7c1fa5398b14_iv -in key.enc -out key -d
+- cp key ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
+- echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config

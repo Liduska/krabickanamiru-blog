@@ -25,4 +25,7 @@ social:
    facebook: brianmaierjr
    email: brimaidesigns@gmail.com
 
+exclude:
+ - vendor/bundle
+
 google_analytics: "UA-48819928-2"
