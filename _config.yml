@@ -15,9 +15,9 @@ navigation:
  - title: Zpět na web
    url: http://www.krabickanamiru.cz/
  - title: Příběhy značek
-   url: /about
+   url: /pribehy-znacek
  - title: Tipy na dárky
-   url: /contact
+   url: /tipy-na-darky
 
 social:
    github: brianmaierjr

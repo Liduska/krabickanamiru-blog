@@ -2,6 +2,7 @@
 layout: post
 title:  "Tipy na valentýnské dárky"
 date:   2017-01-17
+category: tipy
 ---
 
 <p class="intro"><span class="dropcap">P</span>amatujete si, jak jste ještě 24. prosince sháněli dárky na poslední chvíli? Chcete si dát na Valentýna opáčko? Že ne? Buďte letos skutečně připraveni a postarejte se o valentýnské dárky včas a nenechte si tak krásný den zkazit běháním po obchodě.</p>
