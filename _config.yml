@@ -1,7 +1,7 @@
 title: Krabičkový blog
 description: Tipy na dárky, seznámení se značkami, kam za nákupy, jak vybírat dárky.
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://blog.krabickanamiru.cz
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
