@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Co vás zajímá před nákupem na krabickanamiru.cz"
-date:   2017-01-17
+date:   2017-01-19
 ---
 
 <p class="intro"><span class="dropcap">V</span>še, co vás zajímalo, ale báli jste se zeptat. Které produkty a kterých značek najdete v krabičce? Kde převzít zboží? Jaké jsou rozdíly mezi zakázkovou a hotovou krabičkou? Všechny Vaše otázky jsme sepsali do jednoho přehledného článku, kde se dozvíte nejen to, ale mnohem víc.</p>

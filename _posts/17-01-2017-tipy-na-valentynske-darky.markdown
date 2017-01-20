@@ -127,3 +127,5 @@ Dobře oblečený chlap je ohrožený druh. <strong>Zachraňte ho</strong> stylo
 Tak už máte s dárky k Valentýnu více jasno? Není to žádná věda. Pokud vás má vaše drahá polovička ráda, neohrne nos nad žádným vaším dárkem. Ono hlavně není tolik důležité co darujete, ale <strong>JAK to darujete</strong>. Krásně zabalený dárek a pár milých slov k tomu má větší moc než drahý parfém.
 
 Že nemáte na nákup dárků i jejich balení čas? Svěřte letošní sv. Valentýn do našich rukou. <strong>Produkty v tomto článku</strong> patří mezi naše favority do krabičky na zakázku. Na vás pak už zbývají dva nejpříjemnější úkoly: předat dárek a slíznout všechnu smetanu za to, jak dobře jste dárky vybrali.
+
+S ♥ Lidmila
