@@ -19,12 +19,6 @@ navigation:
  - title: Tipy na dárky
    url: /tipy-na-darky
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
-
 exclude:
  - vendor/bundle
 
