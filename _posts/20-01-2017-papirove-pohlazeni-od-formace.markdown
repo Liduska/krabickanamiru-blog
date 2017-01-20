@@ -16,12 +16,12 @@ Už přes tři a půl roku [Formace](https://www.fler.cz/formace) vyrábí a pro
   </figure>
   <figure>
     <img src="{{ '/assets/img/batoh-formace.jpg' | prepend: site.baseurl }}" alt="Bavlněný batůžek se vzorem">
-    <figcaption>Bavlnaněný batůžek se vzorem</figcaption>
+    <figcaption>Bavlněný batůžek se vzorem</figcaption>
   </figure>
 </div>
 
 
-Jen látka nebo papír a všemožné geometrické tvary, kotvičky, kytičky a zvířátka. Více "abstraktní"" jsou, v případě Formace, např. čtvrecová otevírací přáníčka a dárkové kartičky. Některé motivy jsou <strong>natištěny razítkem</strong> (takže co obrazec, to unikát!) a některé laserovou tiskárnou. Co je ale důležitější než barvy a vzory je fakt, že všechny produkty jsou příjemné na dotek!
+Jen látka nebo papír a všemožné geometrické tvary, kotvičky, kytičky a zvířátka. Více "abstraktní" jsou, v případě Formace, např. čtvrecová otevírací přáníčka a dárkové kartičky. Některé motivy jsou <strong>natištěny razítkem</strong> (takže co obrazec, to unikát!) a některé laserovou tiskárnou. Co je ale důležitější než barvy a vzory je fakt, že všechny produkty jsou příjemné na dotek!
 
 <div class="blog-images">
   <figure>
@@ -30,7 +30,7 @@ Jen látka nebo papír a všemožné geometrické tvary, kotvičky, kytičky a z
   </figure>
   <figure>
     <img src="{{ '/assets/img/penal-formace.jpg' | prepend: site.baseurl }}" alt="Vzorovaný penál do školy">
-    <figcaption>Bavlnaněný batůžek se vzorem</figcaption>
+    <figcaption>Originální penál na psací potřeby</figcaption>
   </figure>
 </div>
 
