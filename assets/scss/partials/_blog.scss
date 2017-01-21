@@ -1,19 +1,21 @@
 
-.blog-images {
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-  margin: 0 auto 2rem auto;
+@media only screen and (min-width: 800px) {
+  .blog-images {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin: 0 auto 2rem auto;
 
-  figure {
-      flex-basis: 33%;
-      margin: 0 20px;
+    figure {
+        flex-basis: 33%;
+        margin: 0 20px;
 
-      img {
-          width: 250px;
-          height: 250px;
-          object-fit: scale-down;
-      }
+        img {
+            width: 250px;
+            height: 250px;
+            object-fit: scale-down;
+        }
+    }
   }
 }
 
